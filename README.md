@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="10%"  src="" ></p>
+<!--<p align="center" style="border-radius:100%"><img height="auto" width="10%"  src="" ></p>!-->
 
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
